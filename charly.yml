@@ -9,7 +9,7 @@ goplaces:
             the binary would be absent, so its presence and executable bit are
             the verifiable proof the candy did its job.
         require:
-            - '@github.com/opencharly/layer-golang:v2026.239.1614'
+            - '@github.com/opencharly/layer-golang:v2026.272.0137'
         env:
             GOPATH: "~/go"
         path_append:
