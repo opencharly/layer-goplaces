@@ -57,6 +57,5 @@ The CLI needs a Google Places API key to reach the API — provision it with
 - Owning skill: `/charly-tools:goplaces` — the Google Places API CLI
 - Runtime parent: `/charly-coder:golang`
 - Sibling Google API CLI: `/charly-tools:gogcli`
-- Bundled by: `/charly-openclaw:openclaw-full` (metalayer)
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
